@@ -2,6 +2,8 @@
     #include<stdlib.h>
     #include<string.h>
     #include<math.h>
+    #define MAX 10000
+=======
     #define MAX 1000
 long t;
     void reverse(char *from, char *to )
