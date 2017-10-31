@@ -2,7 +2,7 @@
     #include<stdlib.h>
     #include<string.h>
     #include<math.h>
-    #define MAX 1000
+    #define MAX 10000
     void reverse(char *from, char *to )
     {
         int len=strlen(from);
